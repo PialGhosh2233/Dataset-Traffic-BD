@@ -21,7 +21,7 @@ I used **CVAT** for annotation. The reason is that this tool is full of useful f
 
 ### Labels  
 
-I chose **seven labels** for annotation. The reason behind choosing these labels is because they are a common scenario in the streets of Bangladesh. The labels are given below:  
+I chose **eight labels** for annotation. The reason behind choosing these labels is because they are a common scenario in the streets of Bangladesh. The labels are given below:  
 
 - **Rickshaw**  
 - **Car**  
@@ -29,7 +29,8 @@ I chose **seven labels** for annotation. The reason behind choosing these labels
 - **Pedestrian**  
 - **Leguna**  
 - **Truck**  
-- **Bus**  
+- **Bus**
+- - **CNG**  
 
 ### Annotation  
 
