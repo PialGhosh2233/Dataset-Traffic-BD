@@ -30,7 +30,7 @@ I chose **eight labels** for annotation. The reason behind choosing these labels
 - **Leguna**  
 - **Truck**  
 - **Bus**
-- - **CNG**  
+- **CNG**  
 
 ### Annotation  
 
